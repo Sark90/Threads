@@ -7,6 +7,7 @@ public class Main {
         //ICountSum count = (op) ->
         threads.ArrOperations.count(as);
         //count.countSum(as);
+
         //count = (op) ->
         threads.ArrOperations.getOptimalThreadsNum(as);
         //count.countSum(as);
